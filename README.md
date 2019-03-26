@@ -1,1 +1,1 @@
-This repository consists of the most current version of my portfolio. I have gone back and updated previous projects adding small bits of code and additionl css where needed. This is the first version of my portfolio and will change as additional projects beomce available. 
+This repository consists of the most current version of my portfolio. I have gone back and updated previous projects adding small bits of code and additionl css where needed. This is the first version of my portfolio and will change as additional projects become available. 
